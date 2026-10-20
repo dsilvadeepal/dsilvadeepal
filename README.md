@@ -17,7 +17,7 @@ Helping Georgia students explore scholarships, understand potential matches, and
 **Product focus:** Guided discovery · Trust · RAG evaluation  
 *Course demo with a limited corpus; not a final eligibility determination.*
 
-[Live demo](https://nextstep-scholarships.replit.app/) · [Code & product decisions](https://github.com/dsilvadeepal/nextstep-scholarships)
+[Live demo](https://nextstep-scholarships.replit.app/) · [Case study](https://github.com/dsilvadeepal/nextstep-scholarships/blob/main/docs/CASE_STUDY.md) · [Code & product decisions](https://github.com/dsilvadeepal/nextstep-scholarships)
 
 ## 📊 Signal Room
 
