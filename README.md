@@ -19,6 +19,17 @@ Helping Georgia students explore scholarships, understand potential matches, and
 
 [Live demo](https://nextstep-scholarships.replit.app/) · [Case study](https://github.com/dsilvadeepal/nextstep-scholarships/blob/main/docs/CASE_STUDY.md) · [Code & product decisions](https://github.com/dsilvadeepal/nextstep-scholarships)
 
+## 🍲 Simmer and Gather
+
+![Simmer and Gather menu planning](https://raw.githubusercontent.com/dsilvadeepal/simmer-and-gather/build/hosting-demo/docs/images/desktop-menu.jpg)
+
+Helping hosts turn their recipe collection, menu choices and available time into a manageable prep plan. Combines make-ahead cooking steps with calendar-aware scheduling, so there’s more time to enjoy the gathering.
+
+**Product focus:** Agentic planning · Human approval · Practical scheduling  
+*Team 44 agentic-AI course demo; calendar booking requires approval. Screenshots use sample data.*
+
+[Code & walkthrough](https://github.com/dsilvadeepal/simmer-and-gather/tree/build/hosting-demo)
+
 ## 📊 Signal Room
 
 ![Signal Room dashboard](assets/signal-room.png)
