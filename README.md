@@ -30,6 +30,17 @@ Helping hosts turn their recipe collection, menu choices and available time into
 
 [Code & walkthrough](https://github.com/dsilvadeepal/simmer-and-gather/tree/build/hosting-demo)
 
+## 📚 Reading Quest
+
+![Reading Quest sample home](https://raw.githubusercontent.com/dsilvadeepal/reading-quest-public/main/docs/images/sample-home.jpg)
+
+Helping young readers practice with short stories, visible progress, and a way to flag answers for review. Built from a family reading-practice project and adapted into a public learning edition.
+
+**Product focus:** Learning experience · Fair answer feedback · Human review  
+*Local-only demo with original sample stories and synthetic learner data; the family app remains private.*
+
+[Code & walkthrough](https://github.com/dsilvadeepal/reading-quest-public) · [Case study](https://github.com/dsilvadeepal/reading-quest-public/blob/main/docs/CASE_STUDY.md)
+
 ## 📊 Signal Room
 
 ![Signal Room dashboard](assets/signal-room.png)
