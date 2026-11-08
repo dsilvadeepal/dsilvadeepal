@@ -21,14 +21,14 @@ Helping Georgia students explore scholarships, understand potential matches, and
 
 ## 🍲 Simmer and Gather
 
-![Simmer and Gather menu planning](https://raw.githubusercontent.com/dsilvadeepal/simmer-and-gather/build/hosting-demo/docs/images/desktop-menu.jpg)
+![Simmer and Gather menu planning](https://raw.githubusercontent.com/dsilvadeepal/simmer-and-gather/main/docs/images/desktop-menu.jpg)
 
-Helping hosts turn their recipe collection, menu choices and available time into a manageable prep plan. Combines make-ahead cooking steps with calendar-aware scheduling, so there’s more time to enjoy the gathering.
+Helping hosts turn recipes, menu choices and available time into a manageable prep plan. Suggests recipe swaps or bought-food alternatives, checks whether the revised menu fits, and leaves approval with the host.
 
-**Product focus:** Agentic planning · Human approval · Practical scheduling  
-*Team 44 agentic-AI course demo; calendar booking requires approval. Screenshots use sample data.*
+**Product focus:** Agentic planning · Human approval · Evaluation  
+*Team 44 course project using LangGraph and LangSmith. Runs locally; calendar booking requires approval.*
 
-[Code & walkthrough](https://github.com/dsilvadeepal/simmer-and-gather/tree/build/hosting-demo)
+[Code & product decisions](https://github.com/dsilvadeepal/simmer-and-gather/tree/main) · [Watch demo](https://drive.google.com/file/d/1uc2Jl4eteHiK9Bc-QaiD3a42bexY9sZJ/view)
 
 ## 📚 Reading Quest
 
